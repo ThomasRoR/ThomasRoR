@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThomasRoR
 - 👀 I’m interested in front-end development and UX/UI Desing
-- 🌱 I’m currently learning Html, CSS and Bootstrap
+- 🌱 I’m currently learning Html, CSS and JavaScript
 - 📫 How to reach me thomasraul06@gmail.com
 
 <!---
