@@ -1,20 +1,24 @@
+<div style="display: inline_block"><br> 
+  <img align="right" alt="my-pic" height="250" style="border-radius:90px;" src="https://i.imgur.com/IwcN8Qm.png">
+</div>
+
 - 👋 Hi, I’m Thomas
 - 👀 I’m interested in front-end development and UX/UI Desing
 - 🌱 I’m currently learning Html, CSS and JavaScript
 - 📫 How to reach me thomasraul06@gmail.com
+ 
 
 <div aling="center">
   <a href="https://github.com/ThomasRoR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasRoR&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasRoR&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasRoR&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="my-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/IwcN8Qm.gif">
-</div>
-
+  </div>
+ 
   ##
   
 <div> 
