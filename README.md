@@ -1,6 +1,9 @@
-![MasterHead](https://i.imgur.com/raq7x1w.gif)
+![MasterHead](https://i.imgur.com/94BqEqw.gif)
 <div style="display: inline_block"><br> 
-  <img align="right" alt="my-pic" height="250" style="border-radius:90px;" src="https://i.imgur.com/IwcN8Qm.png">
+  
+#
+
+<img align="right" alt="my-pic" height="200" style="border-radius:90px;" src="https://i.imgur.com/IwcN8Qm.png">
 </div>
 
 ## 👋 Olá, Eu sou o Thomas
