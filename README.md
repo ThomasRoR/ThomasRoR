@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/94BqEqw.gif)
+![MasterHead](https://i.imgur.com/CViwpXL.gif)
 <div style="display: inline_block"><br> 
   
 #
