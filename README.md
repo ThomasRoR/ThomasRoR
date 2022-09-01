@@ -1,3 +1,4 @@
+![MasterHead](https://i.imgur.com/raq7x1w.gif)
 <div style="display: inline_block"><br> 
   <img align="right" alt="my-pic" height="250" style="border-radius:90px;" src="https://i.imgur.com/IwcN8Qm.png">
 </div>
@@ -26,5 +27,8 @@
  	<a href="https://www.twitch.tv/decay_10" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/6QzJ8gF9Xn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thomasraul06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
+  
+  </div>
+
   
