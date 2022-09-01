@@ -1,9 +1,5 @@
 ![MasterHead](https://64.media.tumblr.com/87459a3087dd69bffa46cb772750075c/c962cf6eef6a0bbd-de/s540x810/d285a40544abca30ada045baa1467e88f3e9da47.gif)
 
-<div style="display: inline_block"><br> 
- 
-<img align="right" alt="my-pic" height="200" style="border-radius:90px;" src="https://i.imgur.com/IwcN8Qm.png">
-</div>
 
 ## 👋 Olá, Eu sou o Thomas
 - 🤩 Meus interesses são Front-end e UX/UI
@@ -21,8 +17,10 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
+  <img align="right" alt="my-pic" height="200" style="border-radius:90px;" src="https://i.imgur.com/IwcN8Qm.png">
+</div>
  
-  ##
+ ## 
   
 <div> 
   <a href="https://www.instagram.com/thomas.zer0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
