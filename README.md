@@ -1,8 +1,7 @@
-![MasterHead](https://i.imgur.com/CViwpXL.gif)
-<div style="display: inline_block"><br> 
-  
-#
+![MasterHead](https://i.imgur.com/epVXAsx.gif)
 
+<div style="display: inline_block"><br> 
+ 
 <img align="right" alt="my-pic" height="200" style="border-radius:90px;" src="https://i.imgur.com/IwcN8Qm.png">
 </div>
 
