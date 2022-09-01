@@ -2,10 +2,10 @@
   <img align="right" alt="my-pic" height="250" style="border-radius:90px;" src="https://i.imgur.com/IwcN8Qm.png">
 </div>
 
-- 👋 Hi, I’m Thomas
-- 👀 I’m interested in front-end development and UX/UI Desing
-- 🌱 I’m currently learning Html, CSS and JavaScript
-- 📫 How to reach me thomasraul06@gmail.com
+## 👋 Olá Eu sou o Thomas
+- 🤩 Meus interesses são Front-end e UX/UI
+- 📚 Atualmente eu estou estudando Html, CSS e JavaScript
+- 💡 Futuramente React.Js e Bootstrap
  
 
 <div aling="center">
