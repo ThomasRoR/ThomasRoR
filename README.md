@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/epVXAsx.gif)
+![MasterHead](https://64.media.tumblr.com/87459a3087dd69bffa46cb772750075c/c962cf6eef6a0bbd-de/s540x810/d285a40544abca30ada045baa1467e88f3e9da47.gif)
 
 <div style="display: inline_block"><br> 
  
