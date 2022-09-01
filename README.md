@@ -29,6 +29,24 @@
   <a href = "mailto:thomasraul06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   
-  </div>
+  </div> 
+
+##
+
+# 🔍Projetos Atuais:
+
+🕔em breve
+
+
+
+🕔em breve
+
+
+
+🕔em breve
+
+
+##
+(header gif by: https://steamcommunity.com/id/Nobu_tall)
 
   
