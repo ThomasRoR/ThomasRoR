@@ -2,7 +2,7 @@
   <img align="right" alt="my-pic" height="250" style="border-radius:90px;" src="https://i.imgur.com/IwcN8Qm.png">
 </div>
 
-## 👋 Olá Eu sou o Thomas
+## 👋 Olá, Eu sou o Thomas
 - 🤩 Meus interesses são Front-end e UX/UI
 - 📚 Atualmente eu estou estudando Html, CSS e JavaScript
 - 💡 Futuramente React.Js e Bootstrap
