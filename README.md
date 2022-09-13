@@ -3,7 +3,7 @@
 
 ## 👋 Olá, Eu sou o Thomas
 - 🤩 Meus interesses são Front-end e UX/UI
-- 📚 Atualmente eu estou estudando Html, CSS e JavaScript
+- 📚 Atualmente estou estudando Html, CSS e JavaScript
 - 💡 Futuramente React.Js e Bootstrap
  
 
