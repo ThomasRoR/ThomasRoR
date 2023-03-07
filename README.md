@@ -2,9 +2,9 @@
 
 
 ## 👋 Olá, Eu sou o Thomas
-- 🤩 Meus interesses são Front-end e UX/UI
-- 📚 Atualmente estou estudando Html, CSS e JavaScript
-- 💡 Futuramente React.Js e Bootstrap
+- 🤩 Meus interesses são Front-end
+- 📚 Atualmente estou estudando JavaScript, React e Nodejs
+- 💡 Futuramente Angular e VueJs
  
 
 <div aling="center">
@@ -35,16 +35,11 @@
 
 # 🔍Projetos Atuais:
 
-🕔em breve
+🕔 Pokedex em Angular
 
 
 
-🕔em breve
-
-
-
-🕔em breve
-
+🕔 Clone Chat gp em react e nodeJS com utilização da API OpeanAi-ChatBot
 
 ##
 (header gif by: https://steamcommunity.com/id/Nobu_tall)
