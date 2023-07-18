@@ -35,9 +35,6 @@
 
 # 🔍Projetos Atuais:
 
-🕔 Pokedex em Angular
-
-
 
 🕔 Clone Chat gp em react e nodeJS com utilização da API OpeanAi-ChatBot
 
