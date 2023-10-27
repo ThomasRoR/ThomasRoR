@@ -37,6 +37,7 @@
 
 
 🕔 Clone Chat gp em react e nodeJS com utilização da API OpeanAi-ChatBot
+🕔 Fighting game character selector, based in Oshi no Ko anime characters.
 
 ##
 (header gif by: https://steamcommunity.com/id/Nobu_tall)
