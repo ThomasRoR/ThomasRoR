@@ -2,9 +2,9 @@
 
 
 ## 👋 Olá, Eu sou o Thomas
-- 🤩 Meus interesses são Front-end
-- 📚 Atualmente estou estudando JavaScript, React e Nodejs
-- 💡 Futuramente Angular e VueJs
+- 🤩 Meus interesses são Back End e Learning Machine
+- 📚 Atualmente estou estudando Nodejs, TypeScripit , C# e .NET
+- 💡 Futuramente Angular
  
 
 <div aling="center">
@@ -39,6 +39,11 @@
 🕔 Clone Chat gp em react e nodeJS com utilização da API OpeanAi-ChatBot.
 
 🕔 Fighting game character selector, based in Oshi no Ko anime characters.
+
+🕔 Bolão para campeonatos de E-sports em C#.
+
+🕔 Projeto de criador de Rifa em Typescripit nextJs e NESTjs.
+
 
 ##
 (header gif by: https://steamcommunity.com/id/Nobu_tall)
